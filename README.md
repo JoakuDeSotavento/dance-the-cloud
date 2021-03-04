@@ -1,5 +1,5 @@
-# Escribir-Maquinas-Escriben
- En este repositorio se encuentran los ejercicios del taller de literatura interactiva.
+# Cuerpo Remediado
+ En este repositorio se encuentran los ejercicios del taller de interactividad y cuerpo.
 
 ## Slides
 
@@ -9,7 +9,7 @@
 
 ## Materiales del concurso
 
-<a href="https://github.com/JoakuDeSotavento/escribir-maquinas-escriben/tree/master/materiales%20del%20curso">
+<a href="https://github.com/JoakuDeSotavento/dance-the-cloud/tree/main/materiales">
 <img src="./img/codigo.jpg" alt="Aquí puedes encontrar el temario y las prácticas del taller"/>
 </a>
 
