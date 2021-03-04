@@ -63,7 +63,7 @@ function drawBox(detections) {
 
 function drawLandmarks(detections) {
   noFill();
-  stroke(161, 95, 251);
+  stroke(floor(random(161)), 95, 251);
   strokeWeight(2);
 
   for (let i = 0; i < detections.length; i += 1) {

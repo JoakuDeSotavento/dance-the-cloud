@@ -36,7 +36,7 @@ function videoReady() {
 function draw() {
   background(0);
   if (segmentation) {
-    image(segmentation.backgroundMask, 0, 0, width, height);
+    image(segmentation.personMask, 0, 0, width, height);
   }
 }
 
