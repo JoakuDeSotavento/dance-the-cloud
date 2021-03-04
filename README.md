@@ -4,13 +4,11 @@
 ## Slides
 
 <a href="https://docs.google.com/presentation/d/1wqqVCFCJOE8EemlfVUrBJZewh_lhm2F0cqn_p-eKBwc/edit?usp=sharing">
-<img src="./img/codigo.jpg" alt="Slides del taller Escribir Máquinas que Escriben"/>
 </a>
 
 ## Materiales del concurso
 
 <a href="https://github.com/JoakuDeSotavento/dance-the-cloud/tree/main/materiales">
-<img src="./img/codigo.jpg" alt="Aquí puedes encontrar el temario y las prácticas del taller"/>
 </a>
 
 ## Libros
