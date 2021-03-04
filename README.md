@@ -3,13 +3,11 @@
 
 ## Slides
 
-<a href="https://docs.google.com/presentation/d/1wqqVCFCJOE8EemlfVUrBJZewh_lhm2F0cqn_p-eKBwc/edit?usp=sharing">
-</a>
+<https://docs.google.com/presentation/d/1wqqVCFCJOE8EemlfVUrBJZewh_lhm2F0cqn_p-eKBwc/edit?usp=sharing>
 
 ## Materiales del concurso
 
-<a href="https://github.com/JoakuDeSotavento/dance-the-cloud/tree/main/materiales">
-</a>
+<https://github.com/JoakuDeSotavento/dance-the-cloud/tree/main/materiales>
 
 ## Libros
 
