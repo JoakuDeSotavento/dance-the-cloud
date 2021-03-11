@@ -3,7 +3,7 @@
 
 ## Slides
 
-<https://docs.google.com/presentation/d/1wqqVCFCJOE8EemlfVUrBJZewh_lhm2F0cqn_p-eKBwc/edit?usp=sharing>
+<https://docs.google.com/presentation/d/1q4ATepbuUnKqU6-4rVXErL10PGsk1ZT5JEgx1fhNxEU/edit?usp=sharing>
 
 ## Materiales del concurso
 
